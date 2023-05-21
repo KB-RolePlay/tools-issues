@@ -1,5 +1,5 @@
 # Kobralost RolePlay - Tools server issues
-In this repository, you can see all **issues about the tools (Discord, Dashboard...)**.
+In this repository, you can see all **issues about the tools (Discord bot, Dashboard...)**.
 It can be a **bug report** or a **feature request**.
 
 ## Issues creation and commenting rules
